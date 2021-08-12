@@ -7,7 +7,8 @@ This is currently just for linux, sorry windows and mac
 To use you want to open terminal "cd" into the direcotry which you installed this file then you will want to type the following command
 
 ```sh 
-python3 one_line.py {path to your java file}```
+python3 one_line.py {path to your java file}
+```
 
 What this will do is create a new file called new_{old file name}.java, it will also change the public class declaration to the new file, this way you can compile without new errors
 
